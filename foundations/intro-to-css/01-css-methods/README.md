@@ -22,3 +22,17 @@ The properties you need to add to each element are:
 - Does the `div` element have CSS added via the external method?
 - Does the `p` element have CSS added via the internal method?
 - Does the `button` element have CSS added via the inline method?
+
+
+### 你需要给每个元素添加的属性是：
+
+- Div：红色背景，白色文本，字号：32px，居中对齐，加粗
+- P：绿色背景，白色文字，字体大小18px
+- 按钮：橙色背景，字体大小：18px
+
+### 自我检查
+- 您是否使用了向HTML文件添加CSS的所有三种方法？
+- 您是否正确地将外部CSS文件链接到HTML文件中？
+- div元素是否通过外部方法添加了CSS ？
+- p元素是否通过内部方法添加了CSS ？
+- 按钮元素是否通过内联方法添加了CSS ？
